@@ -168,7 +168,7 @@ Database
 
 ### Frontend
 
-[React + TypeScript](https://github.com/ki-hi-ro/task-manager-frontend)
+[React + TypeScript](https://github.com/ki-hi-ro/react_todo)
 
 ---
 
